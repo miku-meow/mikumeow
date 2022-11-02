@@ -1,0 +1,19 @@
+Scann subnet 203.68.74.0-203.68.74.254 with 20 threads
+203.68.74.104, ping: success, ports: not found
+203.68.74.15, ping: failure, ports: not found
+203.68.74.16, ping: failure, ports: not found
+203.68.74.223, ping: failure, ports: not found
+203.68.74.122, ping: success, ports: not found
+203.68.74.188, ping: success, ports: not found
+203.68.74.189, ping: failure, ports: not found
+203.68.74.33, ping: failure, ports: not found
+203.68.74.239, ping: success, ports: 80
+203.68.74.251, ping: success, ports: 80
+203.68.74.9, ping: failure, ports: not found
+203.68.74.10, ping: failure, ports: not found
+203.68.74.11, ping: failure, ports: not found
+203.68.74.63, ping: failure, ports: 80
+203.68.74.194, ping: failure, ports: 80
+203.68.74.12, ping: failure, ports: not found
+Statistics:
+Scanned 255 from 255, found online 16
