@@ -1,0 +1,33 @@
+Scann subnet 203.68.75.0-203.68.75.254 with 20 threads
+203.68.75.182, ping: success, ports: not found
+203.68.75.219, ping: failure, ports: 80
+203.68.75.39, ping: failure, ports: 80
+203.68.75.183, ping: success, ports: not found
+203.68.75.1, ping: success, ports: 80
+203.68.75.184, ping: success, ports: not found
+203.68.75.208, ping: success, ports: not found
+203.68.75.92, ping: success, ports: not found
+203.68.75.2, ping: success, ports: not found
+203.68.75.220, ping: failure, ports: 80
+203.68.75.185, ping: success, ports: not found
+203.68.75.221, ping: failure, ports: 80
+203.68.75.209, ping: success, ports: not found
+203.68.75.186, ping: success, ports: 80
+203.68.75.210, ping: success, ports: not found
+203.68.75.187, ping: success, ports: not found
+203.68.75.211, ping: success, ports: not found
+203.68.75.188, ping: success, ports: not found
+203.68.75.68, ping: failure, ports: 80
+203.68.75.189, ping: success, ports: not found
+203.68.75.31, ping: failure, ports: 80
+203.68.75.190, ping: success, ports: not found
+203.68.75.191, ping: success, ports: not found
+203.68.75.249, ping: success, ports: not found
+203.68.75.45, ping: failure, ports: 80
+203.68.75.218, ping: failure, ports: 80
+203.68.75.37, ping: failure, ports: 80
+203.68.75.254, ping: success, ports: not found
+203.68.75.12, ping: failure, ports: 80
+203.68.75.181, ping: success, ports: not found
+Statistics:
+Scanned 255 from 255, found online 30
