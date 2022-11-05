@@ -1,0 +1,17 @@
+Scann subnet 203.68.200.0-203.68.201.254 with 20 threads
+203.68.200.2, ping: failure, ports: not found
+203.68.200.4, ping: failure, ports: not found
+203.68.200.5, ping: failure, ports: not found
+203.68.200.6, ping: failure, ports: not found
+203.68.200.7, ping: failure, ports: 80
+203.68.200.11, ping: failure, ports: 80
+203.68.200.12, ping: failure, ports: 80
+203.68.200.14, ping: failure, ports: 8080
+203.68.200.18, ping: failure, ports: 80
+203.68.200.200, ping: failure, ports: 80
+203.68.200.97, ping: failure, ports: 80
+203.68.200.201, ping: failure, ports: 80
+203.68.200.99, ping: failure, ports: 80
+203.68.200.101, ping: failure, ports: 80
+Statistics:
+Scanned 511 from 511, found online 14
