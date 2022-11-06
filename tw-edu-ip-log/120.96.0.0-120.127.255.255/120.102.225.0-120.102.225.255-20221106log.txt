@@ -1,0 +1,14 @@
+Scann subnet 120.102.225.0-120.102.225.255 with 20 threads
+120.102.225.16, ping: failure, ports: 80
+120.102.225.56, ping: success, ports: 135
+120.102.225.18, ping: failure, ports: 80
+120.102.225.20, ping: failure, ports: 80
+120.102.225.23, ping: failure, ports: 80
+120.102.225.101, ping: failure, ports: not found
+120.102.225.24, ping: failure, ports: 80
+120.102.225.102, ping: failure, ports: 80
+120.102.225.51, ping: success, ports: 135
+120.102.225.103, ping: failure, ports: not found
+120.102.225.12, ping: failure, ports: 80
+Statistics:
+Scanned 256 from 256, found online 11
