@@ -1,0 +1,4 @@
+Scann subnet 120.102.224.0-120.102.224.255 with 20 threads
+120.102.224.7, ping: success, ports: not found
+Statistics:
+Scanned 256 from 256, found online 1
