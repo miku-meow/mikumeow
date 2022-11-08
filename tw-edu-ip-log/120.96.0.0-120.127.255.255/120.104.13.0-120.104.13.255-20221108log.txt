@@ -1,0 +1,12 @@
+Scann subnet 120.104.13.0-120.104.13.255 with 20 threads
+120.104.13.3, ping: failure, ports: 80
+120.104.13.4, ping: failure, ports: 80
+120.104.13.5, ping: failure, ports: 80
+120.104.13.7, ping: failure, ports: 80
+120.104.13.202, ping: failure, ports: 80
+120.104.13.150, ping: failure, ports: 80
+120.104.13.9, ping: failure, ports: 80
+120.104.13.23, ping: failure, ports: 80
+120.104.13.24, ping: failure, ports: 80
+Statistics:
+Scanned 256 from 256, found online 9
