@@ -1,0 +1,4 @@
+Scann subnet 120.104.14.0-120.104.14.255 with 20 threads
+120.104.14.89, ping: failure, ports: 80
+Statistics:
+Scanned 256 from 256, found online 1
