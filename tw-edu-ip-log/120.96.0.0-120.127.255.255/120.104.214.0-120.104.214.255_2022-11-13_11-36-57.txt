@@ -1,0 +1,23 @@
+Scann subnet 120.104.214.0-120.104.214.255 with 20 threads
+120.104.214.104, ping: success, ports: 80
+120.104.214.244, ping: success, ports: not found
+120.104.214.232, ping: success, ports: not found
+120.104.214.233, ping: success, ports: 80
+120.104.214.105, ping: success, ports: 80, 443
+120.104.214.106, ping: success, ports: 80, 443
+120.104.214.221, ping: success, ports: 80
+120.104.214.222, ping: failure, ports: 8080
+120.104.214.223, ping: success, ports: not found
+120.104.214.248, ping: success, ports: 80, 443
+120.104.214.237, ping: success, ports: not found
+120.104.214.238, ping: success, ports: 80, 443
+120.104.214.240, ping: success, ports: not found
+120.104.214.136, ping: success, ports: not found
+120.104.214.252, ping: success, ports: 443
+120.104.214.242, ping: success, ports: not found
+120.104.214.243, ping: success, ports: not found
+120.104.214.101, ping: success, ports: 80, 443
+120.104.214.102, ping: success, ports: 80, 443
+120.104.214.103, ping: success, ports: 80, 443
+Statistics:
+Scanned 256 from 256, found online 20
