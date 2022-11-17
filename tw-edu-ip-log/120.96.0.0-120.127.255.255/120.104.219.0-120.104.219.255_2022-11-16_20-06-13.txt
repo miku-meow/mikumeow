@@ -1,0 +1,57 @@
+Scann subnet 120.104.219.0-120.104.219.255 with 20 threads
+120.104.219.244, ping: success, ports: 80, 443
+120.104.219.208, ping: success, ports: 443
+120.104.219.220, ping: success, ports: not found
+120.104.219.65, ping: success, ports: not found
+120.104.219.245, ping: success, ports: 80, 443
+120.104.219.209, ping: success, ports: 443
+120.104.219.221, ping: success, ports: not found
+120.104.219.232, ping: failure, ports: not found
+120.104.219.246, ping: success, ports: 80, 443
+120.104.219.210, ping: success, ports: 443
+120.104.219.0, ping: failure, ports: 80, 443
+120.104.219.247, ping: success, ports: 80, 443
+120.104.219.211, ping: success, ports: 443
+120.104.219.14, ping: success, ports: 80
+120.104.219.212, ping: success, ports: 443
+120.104.219.222, ping: failure, ports: not found
+120.104.219.248, ping: success, ports: 443
+120.104.219.233, ping: failure, ports: not found
+120.104.219.213, ping: success, ports: 443
+120.104.219.214, ping: success, ports: 443
+120.104.219.223, ping: failure, ports: not found
+120.104.219.215, ping: success, ports: 443
+120.104.219.234, ping: failure, ports: not found
+120.104.219.224, ping: success, ports: not found
+120.104.219.216, ping: success, ports: 80
+120.104.219.235, ping: success, ports: not found
+120.104.219.217, ping: success, ports: 80
+120.104.219.3, ping: success, ports: not found
+120.104.219.218, ping: success, ports: 80
+120.104.219.4, ping: success, ports: not found
+120.104.219.225, ping: failure, ports: not found
+120.104.219.219, ping: success, ports: not found
+120.104.219.236, ping: failure, ports: not found
+120.104.219.251, ping: success, ports: 80, 443
+120.104.219.237, ping: success, ports: not found
+120.104.219.252, ping: success, ports: 80, 443
+120.104.219.226, ping: failure, ports: not found
+120.104.219.227, ping: failure, ports: not found
+120.104.219.228, ping: failure, ports: not found
+120.104.219.229, ping: failure, ports: not found
+120.104.219.255, ping: failure, ports: 80, 443
+120.104.219.241, ping: success, ports: 80, 443
+120.104.219.8, ping: failure, ports: 80
+120.104.219.242, ping: success, ports: 80, 443
+120.104.219.230, ping: failure, ports: not found
+120.104.219.243, ping: success, ports: 80, 443
+120.104.219.203, ping: success, ports: 443
+120.104.219.190, ping: success, ports: 80
+120.104.219.231, ping: success, ports: not found
+120.104.219.204, ping: success, ports: 443
+120.104.219.205, ping: success, ports: 443
+120.104.219.206, ping: success, ports: 443
+120.104.219.207, ping: success, ports: 443
+120.104.219.48, ping: failure, ports: 80
+Statistics:
+Scanned 256 from 256, found online 54
