@@ -1,0 +1,35 @@
+Scann subnet 120.104.238.0-120.104.238.255 with 20 threads
+120.104.238.26, ping: success, ports: not found
+120.104.238.244, ping: success, ports: not found
+120.104.238.105, ping: success, ports: 80
+120.104.238.1, ping: success, ports: not found
+120.104.238.106, ping: success, ports: 80, 443
+120.104.238.28, ping: success, ports: not found
+120.104.238.107, ping: success, ports: 80, 443
+120.104.238.41, ping: success, ports: 8080
+120.104.238.3, ping: success, ports: 80
+120.104.238.247, ping: success, ports: 80
+120.104.238.4, ping: success, ports: 80
+120.104.238.248, ping: failure, ports: 80
+120.104.238.160, ping: success, ports: not found
+120.104.238.134, ping: failure, ports: 80
+120.104.238.250, ping: success, ports: 80
+120.104.238.111, ping: success, ports: 80
+120.104.238.251, ping: success, ports: 80, 443
+120.104.238.252, ping: success, ports: 80, 443
+120.104.238.253, ping: success, ports: 80, 443
+120.104.238.124, ping: success, ports: 80, 443
+120.104.238.125, ping: success, ports: 80, 443
+120.104.238.35, ping: success, ports: not found
+120.104.238.255, ping: failure, ports: 80, 443
+120.104.238.10, ping: success, ports: 80, 443
+120.104.238.240, ping: success, ports: 80, 443
+120.104.238.191, ping: success, ports: 80
+120.104.238.178, ping: success, ports: 80
+120.104.238.127, ping: failure, ports: 80, 443
+120.104.238.179, ping: success, ports: 80, 443
+120.104.238.62, ping: success, ports: not found
+120.104.238.128, ping: failure, ports: 80, 443
+120.104.238.193, ping: success, ports: not found
+Statistics:
+Scanned 256 from 256, found online 32

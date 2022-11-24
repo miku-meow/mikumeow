@@ -1,0 +1,47 @@
+Scann subnet 120.104.244.0-120.104.244.255 with 20 threads
+120.104.244.65, ping: success, ports: not found
+120.104.244.117, ping: success, ports: not found
+120.104.244.130, ping: success, ports: not found
+120.104.244.220, ping: success, ports: not found
+120.104.244.118, ping: success, ports: 80, 443, 8080
+120.104.244.66, ping: success, ports: not found
+120.104.244.119, ping: success, ports: 80, 443, 8080
+120.104.244.0, ping: failure, ports: 80, 443
+120.104.244.233, ping: success, ports: 80
+120.104.244.120, ping: success, ports: 443, 8080
+120.104.244.1, ping: failure, ports: 80
+120.104.244.211, ping: success, ports: 80, 443
+120.104.244.199, ping: success, ports: 80, 443
+120.104.244.124, ping: success, ports: 80, 443
+120.104.244.201, ping: success, ports: 80, 443
+120.104.244.126, ping: success, ports: not found
+120.104.244.84, ping: success, ports: not found
+120.104.244.97, ping: success, ports: 80, 443
+120.104.244.6, ping: success, ports: not found
+120.104.244.215, ping: success, ports: 80
+120.104.244.7, ping: success, ports: not found
+120.104.244.127, ping: failure, ports: 80, 443
+120.104.244.8, ping: success, ports: not found
+120.104.244.73, ping: success, ports: 80
+120.104.244.251, ping: success, ports: 80, 443
+120.104.244.252, ping: success, ports: 80, 443
+120.104.244.128, ping: failure, ports: 80, 443
+120.104.244.253, ping: success, ports: 80, 443
+120.104.244.21, ping: success, ports: 80, 443, 8080
+120.104.244.22, ping: success, ports: 80, 443
+120.104.244.241, ping: success, ports: 80
+120.104.244.34, ping: failure, ports: not found
+120.104.244.205, ping: success, ports: 80
+120.104.244.165, ping: success, ports: 80
+120.104.244.152, ping: success, ports: not found
+120.104.244.166, ping: success, ports: 80
+120.104.244.76, ping: success, ports: 80
+120.104.244.88, ping: success, ports: not found
+120.104.244.243, ping: success, ports: not found
+120.104.244.255, ping: failure, ports: 80, 443
+120.104.244.90, ping: success, ports: not found
+120.104.244.115, ping: success, ports: 80, 443
+120.104.244.116, ping: success, ports: 443
+120.104.244.25, ping: failure, ports: 80
+Statistics:
+Scanned 256 from 256, found online 44
